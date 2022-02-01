@@ -1,1 +1,1 @@
-to use this script you shoud instal pycryptodome with pip.
+to use this script you shoud install pycryptodome with pip.
